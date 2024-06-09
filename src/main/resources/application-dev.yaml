@@ -1,0 +1,7 @@
+#spring.application.name=concessionaria
+#server.port=8081
+server:
+  port: 8091
+spring:
+  application:
+    name: concessionaria
